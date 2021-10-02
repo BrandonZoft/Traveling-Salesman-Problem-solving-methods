@@ -1,4 +1,14 @@
 Read at https://github.com/BrandonZoft/Traveling-Salesman-Problem-solving-methods
+
+# Traveling-Salesman-Problem-solving-methods
+
+<p align="center"><img src="TSO table.PNG" alt="drawing" width="500"/></p>
+
+This is a set of data analysis/manipulation for the entirety class of [Selected	Topics	on	Optimization	(Temas	Selectos	de	Optimización)
+Introduction	to	Combinatorial	Optimization AGO-DIC 2019](https://www.fime.uanl.mx/wp-content/uploads/2020/10/Optimizacion.pdf) with Dr. María Angélica. You can download the paper [here.](https://github.com/BrandonZoft/Traveling-Salesman-Problem-solving-methods/raw/master/TSO.pdf)
+
+This uses a number of Python packages like Numpy and Pandas for data manipulation and matplotlib for visualization.
+
 # Requirements
 [Python 3.7](https://www.python.org/) or [Anaconda 3.7](https://www.anaconda.com/distribution/).
 If using normal python 3, install requirements by doing
